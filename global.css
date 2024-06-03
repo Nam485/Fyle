@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-poppins: Poppins;
+    --font-cormorant-sc: "Cormorant SC";
+  
+    /* font sizes */
+    --font-size-lg: 18px;
+    --font-size-xl: 20px;
+    --font-size-26xl: 45px;
+    --font-size-5xl: 24px;
+    --font-size-39xl: 58px;
+    --font-size-24xl: 43px;
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-crimson: #ff3147;
+    --color-black: #000;
+    --color-whitesmoke: #f6f6f6;
+  }
+  
